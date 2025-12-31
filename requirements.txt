@@ -3,4 +3,4 @@ pandas
 numpy
 joblib
 imbalanced-learn
-scikit-learn==1.7.1
+scikit-learn==1.5.2
