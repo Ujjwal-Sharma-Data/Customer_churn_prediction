@@ -47,8 +47,8 @@ Business stakeholders need to know *why* a customer is churning. Logistic Regres
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/Ujjwal-Sharma-Data/telco-churn-predictor.git](https://github.com/Ujjwal-Sharma-Data/telco-churn-predictor.git)
-    cd telco-churn-predictor
+    git clone [https://github.com/Ujjwal-Sharma-Data/Customer_churn_prediction.git](https://github.com/Ujjwal-Sharma-Data/Customer_churn_prediction.git)
+    cd Customer_churn_prediction
     ```
 
 2.  **Install Dependencies**
